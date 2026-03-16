@@ -24,3 +24,9 @@
 /*      npm publish                                               */
 /*                                                                */
 /******************************************************************/
+
+export { LoginLayout } from "./pages/login/login_layout";
+
+export { PasswordRecoveryLayout } from "./pages/password_recovery/password_recovery_layout";
+
+export { PasswordUpdateLayout } from "./pages/password_update/password_update_layout";
