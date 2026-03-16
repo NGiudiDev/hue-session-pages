@@ -51,10 +51,15 @@
     "yup": "1.7.1"
   },
   "peerDependencies": {
+    "formik": "2.4.9",
+    "lodash": "4.17.23",
+    "ngiudi-hue-ds": "0.0.4",
+    "query-string": "9.3.1",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "react-router-dom": "7.13.1",
-    "styled-components": "6.3.11"
+    "styled-components": "6.3.11",
+    "yup": "1.7.1"
   },
   "engines": {
     "node": "24.14.0"

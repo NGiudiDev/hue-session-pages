@@ -4,6 +4,7 @@ import { useLocation, useNavigate, useParams } from "react-router-dom";
 
 import queryString from "query-string";
 
+//TODO: Crear un proyecto con los hooks que se van a usar en todos los proyectos.
 export const useRouter = () => {
 	const location = useLocation();
 	const navigate = useNavigate();
