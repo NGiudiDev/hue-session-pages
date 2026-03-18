@@ -7,7 +7,6 @@ const config = {
   "addons": [
     "@etchteam/storybook-addon-status",
     "@chromatic-com/storybook",
-    "@storybook/experimental-addon-test",
     "@storybook/addon-docs"
   ],
   "framework": {
