@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 import { SessionLayout } from "../../components/session_layout/session_layout";
 
-import { Button, Input, Text } from "ngiudi-hue-ds";
+import { Button, Input, Text } from "@ngiudi.dev/hue-design-system";
 import { Form, Formik } from "formik";
 
 import { loginSchema } from "../../services/session_validations_services";

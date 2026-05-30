@@ -1,7 +1,7 @@
 import React from "react";
 import { MemoryRouter } from "react-router-dom";
 
-import { Box, ThemeProvider } from "ngiudi-hue-ds";
+import { Box, ThemeProvider } from "@ngiudi.dev/hue-design-system";
 
 /** @type { import('@storybook/react-vite').Preview } */
 const preview = {

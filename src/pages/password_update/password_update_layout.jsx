@@ -6,7 +6,7 @@ import { useRouter } from "../../hooks/use_router";
 import { PageMessageLayout } from "../../components/page_message_layout/page_message_layout";
 import { SessionLayout } from "../../components/session_layout/session_layout";
 
-import { Button, Input, Text } from "ngiudi-hue-ds";
+import { Button, Input, Text } from "@ngiudi.dev/hue-design-system";
 import { Form, Formik } from "formik";
 
 import { newPasswordValidation } from "../../services/session_validations_services";

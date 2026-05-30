@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { Button, Text } from "ngiudi-hue-ds";
+import { Button, Text } from "@ngiudi.dev/hue-design-system";
 
 import { Styles } from "./page_message_layout_styles";
 
