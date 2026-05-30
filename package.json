@@ -1,6 +1,6 @@
 {
-  "name": "ngiudi-hue-session-pages",
-  "version": "1.0.0",
+  "name": "@ngiudi.dev/hue-session-pages",
+  "version": "0.1.0",
   "description": "Design System implemented in React",
   "main": "./dist/index.js",
   "type": "module",
