@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { useRouter } from "../../hooks/use_router";
+import { useRouter } from "@ngiudi.dev/hue-hooks-kit";
 
 import { PageMessageLayout } from "../../components/page_message_layout/page_message_layout";
 import { SessionLayout } from "../../components/session_layout/session_layout";

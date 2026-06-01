@@ -1,7 +1,7 @@
 import React from "react";
 import { MemoryRouter } from "react-router-dom";
 
-import { Box, ThemeProvider } from "@ngiudi.dev/hue-design-system";
+import { ThemeProvider } from "@ngiudi.dev/hue-design-system";
 
 /** @type { import('@storybook/react-vite').Preview } */
 const preview = {
@@ -9,9 +9,7 @@ const preview = {
     (Story) => (
       <MemoryRouter>
         <ThemeProvider>
-          <Box padding="b-32 t-24 x-24">
-            <Story />
-          </Box>
+          <Story />
         </ThemeProvider>
       </MemoryRouter>
     ),
